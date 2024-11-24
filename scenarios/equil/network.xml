@@ -3,7 +3,7 @@
 
 <network name="equil test network">
    <nodes>
-      <node id="1" x="-20000" y="0"/>
+      <node id="1" x="-30000" y="0"/>
       <node id="2" x="-15000" y="0"/>
       <node id="3" x="-865" y="5925"/>
       <node id="4" x="-2498" y="4331"/>
